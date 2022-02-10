@@ -6,10 +6,9 @@ Practice Exercises with Solutions or Hints -
 - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming
 - https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php
 - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-countdown
-- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-countdown
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers
 
 Additional Resources -
-
 - https://eloquentjavascript.net/03_functions.html
 - https://www.w3schools.com/js/js_function_definition.asp
 - https://www.youtube.com/watch?v=6NPfQJJEySY
