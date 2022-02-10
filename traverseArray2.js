@@ -35,3 +35,13 @@ const arrB = [5,4,3,2,1];
 console.log(traverseAndApplyToArray(multiplyFunction,arrB, 0));
 
 console.log(traverseAndApplyToArray(multiplyFunction,arrB, 3));
+
+
+let squaresPlusFunct = function(x,y) {
+    return (x*x) + (y*y);
+}
+console.log(traverseAndApplyToArray(squaresPlusFunct,arrB, 0));
+
+//rectangle has height, width
+
+//doSomethingWithRectangle(afunction, height, width, color);

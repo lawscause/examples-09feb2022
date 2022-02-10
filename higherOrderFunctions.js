@@ -2,10 +2,15 @@
 const addFunction = function(a, b) {
     return a+b;
 }
+/*
+let answer = addFunction(1,2);
+console.log(answer);
+console.log(addFunction(1,2));
+*/
 
 //use functions as arguments to other functions
-function add10plus100(addFunction) {
-    return addFunction(10,100);
+function add10plus100(aFunction) {
+    return aFunction(10,100);
 }
 
 
@@ -21,5 +26,8 @@ function testProcessNumbers(a1, a2, pFunct) {
     console.log(`processNumbers(${a1}, ${a2}, ${pFunct}) returns ${pFunct(a1, a2)} `);
 }
 
-console.log(`add10plus100(addFunction) is ${add10plus100(addFunction)}`);
+
+
+//console.log(`add10plus100(addFunction) is ${add10plus100(addFunction)}`);
+
 testProcessNumbers(1, 2, addFunction);

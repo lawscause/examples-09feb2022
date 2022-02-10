@@ -23,3 +23,4 @@ let test_powerRec1 = powerRec(2,10);
 
 let test_power2 = power("a",10);
 let test_powerRec2 = powerRec("a",10);
+console.log(test_powerRec2);
